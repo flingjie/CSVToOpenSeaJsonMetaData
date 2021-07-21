@@ -1,0 +1,28 @@
+{
+ "description": "blah blah ",
+ "external_url": "link.....",
+ "image": "pinta link.......",
+ "name": "Name of NFT ",
+ "attributes": [
+  {
+   "trait_type": "background",
+   "value": "Black"
+  },
+  {
+   "trait_type": "Country",
+   "value": "Japan"
+  },
+  {
+   "trait_type": "necklace",
+   "value": "Choker"
+  },
+  {
+   "trait_type": "eyes",
+   "value": "Brown"
+  },
+  {
+   "trait_type": "Pose",
+   "value": "Spread"
+  }
+ ]
+}
